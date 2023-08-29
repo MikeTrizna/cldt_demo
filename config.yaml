@@ -60,6 +60,7 @@ contact: 'triznam@si.edu' # FIXME
 # Order of episodes in your lesson
 episodes: 
 - introduction.md
+- data-visualization.md
 
 # Information for Learners
 learners: 
